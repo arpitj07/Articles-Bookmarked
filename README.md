@@ -2,13 +2,13 @@
 
 The articles have been categorised as follows:
 
-:point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md)
+:point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#deep-learning--python-)
 
 :point_right: [Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
 
-:point_right: [ Self Driving Car]()
+:point_right: [ Self Driving Car](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#self-driving-car)
 
-:point_right: [ Tensorflow ]
+:point_right: [ Tensorflow ](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#tensorflow-tensorflowjs)
 
 :point_right: [Chatbot](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#chatbot)
 
