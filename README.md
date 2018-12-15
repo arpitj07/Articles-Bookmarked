@@ -1,6 +1,6 @@
 # This Repository is meant as a place to store my bookmarked article on [Medium](https://medium.com/)
 
-[Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/edit/master/README.md#Convolutional-Neuaral-Network)
+[Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
 
 - **[How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)**.
 
