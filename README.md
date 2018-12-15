@@ -2,8 +2,17 @@
 
 The articles have been categorised as follows:
 
+:point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md)
+
 :point_right: [Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
+
+:point_right: [ Self Driving Car]()
+
+:point_right: [ Tensorflow ]
+
 :point_right: [Chatbot](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#chatbot)
+
+
 
 ## Deep Learning ( Python )
 
@@ -14,6 +23,8 @@ The articles have been categorised as follows:
 ## Convolutional Neural Network
 
 - **[Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5)**.
+
+- **[Learn to build a Convolutional Neural Network on the web with this easy tutorial](https://medium.freecodecamp.org/learn-to-build-a-convolutional-neural-network-on-the-web-with-this-easy-tutorial-2d617ffeaef3)**.
 
 
 
@@ -36,6 +47,8 @@ The articles have been categorised as follows:
 - **[How to play Quidditch using the TensorFlow Object Detection API](https://medium.freecodecamp.org/how-to-play-quidditch-using-the-tensorflow-object-detection-api-b0742b99065d)**.
 
 - **[YOLO — You only look once, real time object detection explained](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)**.
+
+- **[Hello world in Tensorflow](https://towardsdatascience.com/hello-world-in-tensorflow-973e6c38e8ed)**.
 
 
 
