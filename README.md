@@ -1,7 +1,9 @@
 # This Repository is meant as a place to store my bookmarked article on [Medium](https://medium.com/)
 
-[Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
+The articles have been categorised as follows:
 
+:point_right: [Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
+:point_right: [Chatbot](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#chatbot)
 
 ## Deep Learning ( Python )
 
