@@ -26,6 +26,10 @@ The articles have been categorised as follows:
 
 - **[Learn to build a Convolutional Neural Network on the web with this easy tutorial](https://medium.freecodecamp.org/learn-to-build-a-convolutional-neural-network-on-the-web-with-this-easy-tutorial-2d617ffeaef3)**.
 
+- **[CNN Architectures](https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)**
+
+- **[CNN Architectures 2](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848)**
+
 
 
 ## Self Driving Car
