@@ -12,6 +12,8 @@ The articles have been categorised as follows:
 
 :point_right: [Chatbot](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#chatbot)
 
+:point_right: [Generative Adversial Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#generative-adversial-network)
+
 
 
 ## Deep Learning ( Python )
@@ -61,3 +63,10 @@ The articles have been categorised as follows:
 ## Chatbot
 
 - **[Getting started with Dialogflow and building my first bot (Newbie’s guide)](https://chatbotslife.com/getting-started-with-dialogflow-and-building-my-first-bot-newbies-guide-d025d4eed3b2)**.
+
+
+## Generative Adversial Network 
+
+- **[An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)**
+
+
