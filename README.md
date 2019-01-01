@@ -1,4 +1,4 @@
-# This Repository is meant as a place to store my bookmarked article on [Medium](https://medium.com/)
+## This Repository for my bookmarked article on [Medium](https://medium.com/)
 
 The articles have been categorised as follows:
 
@@ -13,6 +13,8 @@ The articles have been categorised as follows:
 :point_right: [Chatbot](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#chatbot)
 
 :point_right: [Generative Adversial Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#generative-adversial-network)
+
+:point_right: [Courses](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Courses)
 
 
 
@@ -69,4 +71,8 @@ The articles have been categorised as follows:
 
 - **[An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)**
 
+
+## Courses
+
+- **[CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)**
 
