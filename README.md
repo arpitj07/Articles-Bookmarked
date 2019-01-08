@@ -1,4 +1,4 @@
-## This Repository for my bookmarked article on [Medium](https://medium.com/)
+## This Repository is curated list of my bookmarked article on [Medium](https://medium.com/)
 
 The articles have been categorised as follows:
 
@@ -15,6 +15,8 @@ The articles have been categorised as follows:
 :point_right: [Generative Adversial Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#generative-adversial-network)
 
 :point_right: [Courses](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Courses)
+
+:point_right: [Computer Vision](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Computer-Vision)
 
 
 
@@ -76,3 +78,6 @@ The articles have been categorised as follows:
 
 - **[CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)**
 
+## Computer Vision
+
+- **[Review: DeepMask (Instance Segmentation)](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339)**
