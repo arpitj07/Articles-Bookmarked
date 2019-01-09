@@ -36,6 +36,9 @@ The articles have been categorised as follows:
 
 - **[CNN Architectures 2](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848)**
 
+- **[Image Classification using Convolutional Neural Networks in Keras](https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/)**
+
+- **[Convolutional Neural Networks with Data Augmentation using Keras](https://www.kaggle.com/moghazy/guide-to-cnns-with-data-augmentation-keras)
 
 
 ## Self Driving Car
@@ -81,3 +84,8 @@ The articles have been categorised as follows:
 ## Computer Vision
 
 - **[Review: DeepMask (Instance Segmentation)](https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339)**
+
+`LearnOpenCV`
+- **[Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)**
+
+
