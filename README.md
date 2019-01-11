@@ -18,7 +18,7 @@ The articles have been categorised as follows:
 
 :point_right: [Computer Vision](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Computer-Vision)
 
-
+:point_right: [Deploying Model](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Deploying-Model)
 
 ## Deep Learning ( Python )
 
@@ -72,10 +72,16 @@ The articles have been categorised as follows:
 
 - **[Getting started with Dialogflow and building my first bot (Newbie’s guide)](https://chatbotslife.com/getting-started-with-dialogflow-and-building-my-first-bot-newbies-guide-d025d4eed3b2)**.
 
+- **[Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)**
+
+- **[Building Your Own Chatbot Using DialogFlow](https://tutorials.botsfloor.com/building-your-own-chatbot-using-dialogflow-1b6ca92b3d3f)
+
 
 ## Generative Adversial Network 
 
 - **[An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)**
+
+- **[Understanding Generative Adversarial Networks (GANs)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)**
 
 
 ## Courses
@@ -90,3 +96,10 @@ The articles have been categorised as follows:
 - **[Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)**
 
 
+## Deploying Model
+
+- **[How to Deploy Machine Learning Models using Flask, Docker and Google Cloud Platform(GCP)](https://medium.com/analytics-vidhya/how-to-deploy-machine-learning-models-using-flask-docker-and-google-cloud-platform-gcp-6e7bf1b339d5)**
+
+- **[Deploying Machine Learning Models with Docker](https://towardsdatascience.com/deploying-machine-learning-models-with-docker-5d22a4dacb5)**
+
+- **[Deploy anything to web in under 3 minutes](https://medium.com/@vcapretz/deploy-anything-to-web-in-under-3-minutes-e232506859e2)**
