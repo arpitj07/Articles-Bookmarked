@@ -1,4 +1,4 @@
-## This Repository is curated list of my bookmarked article on [Medium](https://medium.com/)
+## This Repository is curated list of my bookmarked article on [Medium](https://medium.com/) ,[Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 The articles have been categorised as follows:
 
@@ -20,6 +20,10 @@ The articles have been categorised as follows:
 
 :point_right: [Deploying Model](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Deploying-Model)
 
+:point_right: [Pytorch](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Pytorch)
+
+
+
 ## Deep Learning ( Python )
 
 - **[How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)**.
@@ -38,7 +42,7 @@ The articles have been categorised as follows:
 
 - **[Image Classification using Convolutional Neural Networks in Keras](https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/)**
 
-- **[Convolutional Neural Networks with Data Augmentation using Keras](https://www.kaggle.com/moghazy/guide-to-cnns-with-data-augmentation-keras)
+- **[Convolutional Neural Networks with Data Augmentation using Keras](https://www.kaggle.com/moghazy/guide-to-cnns-with-data-augmentation-keras)**
 
 
 ## Self Driving Car
@@ -103,3 +107,10 @@ The articles have been categorised as follows:
 - **[Deploying Machine Learning Models with Docker](https://towardsdatascience.com/deploying-machine-learning-models-with-docker-5d22a4dacb5)**
 
 - **[Deploy anything to web in under 3 minutes](https://medium.com/@vcapretz/deploy-anything-to-web-in-under-3-minutes-e232506859e2)**
+
+
+## Pytorch 
+
+- **[Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!)](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
+
+
