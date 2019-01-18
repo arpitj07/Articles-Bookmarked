@@ -71,6 +71,7 @@ The articles have been categorised as follows:
 
 -  **[Building an image caption generator with Deep Learning in Tensorflow](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)**
 
+-  **[Tensorflow: Beginners to Advanced (Kaggle kernel)](https://www.kaggle.com/ashishpatel26/tensorflow-for-beginner-to-advance)**
 
 ## Chatbot
 
