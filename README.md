@@ -44,6 +44,10 @@ The articles have been categorised as follows:
 
 - **[Convolutional Neural Networks with Data Augmentation using Keras](https://www.kaggle.com/moghazy/guide-to-cnns-with-data-augmentation-keras)**
 
+- **[Visualizing intermediate activation in Convolutional Neural Networks with Keras](https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0)**
+
+
+
 
 ## Self Driving Car
 
