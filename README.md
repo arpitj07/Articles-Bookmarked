@@ -56,6 +56,12 @@ The articles have been categorised as follows:
 
 - **[Visualizing intermediate activation in Convolutional Neural Networks with Keras](https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0)**
 
+- **[Eye in the Sky — Image Classification using Transfer Learning and Data Augmentation](https://towardsdatascience.com/fast-ai-deep-learnings-part-i-eye-in-the-sky-417e97c3e6bb)**
+
+- **[Detecting academics’ major from facial images](https://towardsdatascience.com/detecting-academics-major-from-facial-images-58cf33d6f284)**
+
+- **[]()**
+
 
 
 
