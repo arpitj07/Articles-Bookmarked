@@ -22,11 +22,21 @@ The articles have been categorised as follows:
 
 :point_right: [Pytorch](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Pytorch)
 
+:point_right: [Natural Language Processing](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Natural-Language-Processing)
+
 
 
 ## Deep Learning ( Python )
 
 - **[How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)**.
+
+- **[Generating Haiku with Deep Learning (Part 1)](https://towardsdatascience.com/generating-haiku-with-deep-learning-dbf5d18b4246)**
+
+- **[Detecting malaria using deep learning.](https://towardsdatascience.com/detecting-malaria-using-deep-learning-fd4fdcee1f5a)**
+
+- **[How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)**
+
+- **[]()**
 
 
 
@@ -118,4 +128,11 @@ The articles have been categorised as follows:
 
 - **[Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!)](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
+
+
+## Natural Language Processing 
+
+- **[IMPORTANT]** **[Evaluating Text Output in NLP: BLEU at your own risk](https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213)**
+
+- **[An NLP View on Holiday Movies — Part II: Text Generation using LSTM’s in Keras](https://medium.com/@thomas_dehaene/an-nlp-view-on-holiday-movies-part-ii-text-generation-using-lstms-in-keras-36dc1ff8a6d2)**
 
