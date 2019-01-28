@@ -24,6 +24,8 @@ The articles have been categorised as follows:
 
 :point_right: [Natural Language Processing](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Natural-Language-Processing)
 
+:point_right: [Recurrent Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
+
 
 
 ## Deep Learning ( Python )
@@ -141,4 +143,7 @@ The articles have been categorised as follows:
 - **[IMPORTANT]** **[Evaluating Text Output in NLP: BLEU at your own risk](https://towardsdatascience.com/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213)**
 
 - **[An NLP View on Holiday Movies — Part II: Text Generation using LSTM’s in Keras](https://medium.com/@thomas_dehaene/an-nlp-view-on-holiday-movies-part-ii-text-generation-using-lstms-in-keras-36dc1ff8a6d2)**
+
+- **[]()**
+
 
