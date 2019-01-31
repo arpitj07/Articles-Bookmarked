@@ -132,7 +132,7 @@ The articles have been categorised as follows:
 - **[Deploy anything to web in under 3 minutes](https://medium.com/@vcapretz/deploy-anything-to-web-in-under-3-minutes-e232506859e2)**
 
 
-## Pytorch 
+## Pytorch   
 
 - **[Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!)](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
