@@ -151,8 +151,7 @@ The articles have been categorised as follows:
 
 ## Recurrent Neural Netwprk 
 
-- **[Build a Recurrent Neural Network from Scratch in Python]
-(https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+LP_DL_2019+2019_T1/about?utm_source=AVbannerblogtop&utm_medium=display&utm_campaign=LPDL2019) **
+- **[Build a Recurrent Neural Network from Scratch in Python](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+LP_DL_2019+2019_T1/about?utm_source=AVbannerblogtop&utm_medium=display&utm_campaign=LPDL2019)**
 
 
 
