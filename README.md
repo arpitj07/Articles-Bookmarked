@@ -38,7 +38,7 @@ The articles have been categorised as follows:
 
 - **[How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)**
 
-- **[]()**
+- **[Top 10 Pretrained Models to get you Started with Deep Learning (Part 1 – Computer Vision)](https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/?utm_source=twitter.com&utm_medium=social)**
 
 
 
