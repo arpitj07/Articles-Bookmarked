@@ -2,7 +2,7 @@
 
 The articles have been categorised as follows:
 
-:point_right: [Mathematics for Machine/ Deep Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Mathematics-for-Machine/-Deep-Learning)
+:point_right: [Mathematics for Machine/ Deep Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#mathematics-for-machine-deep-learning)
 
 :point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#deep-learning--python-)
 
