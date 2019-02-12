@@ -2,6 +2,8 @@
 
 The articles have been categorised as follows:
 
+:point_right: [Mathematics for Machine/ Deep Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Mathematics-for-Machine/-Deep-Learning)
+
 :point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#deep-learning--python-)
 
 :point_right: [Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
@@ -27,6 +29,13 @@ The articles have been categorised as follows:
 :point_right: [Recurrent Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
 
 
+## Mathematics for Machine/ Deep Learning
+
+- **[Linear Algebra for Machine Learning - All Parts](https://medium.com/@falgunimukherjee/linear-algebra-for-machine-learning-2114d66246d6)**
+
+- **[Mathematics for Data Science](https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306)**
+
+- **[Probability & Statistics for Data Science (Series)](https://towardsdatascience.com/probability-statistics-for-data-science-series-83b94353ca48)**
 
 ## Deep Learning ( Python )
 
