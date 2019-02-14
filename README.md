@@ -4,6 +4,8 @@ The articles have been categorised as follows:
 
 :point_right: [Mathematics for Machine/ Deep Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#mathematics-for-machine-deep-learning)
 
+:point_right: [Machine Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#machine-learning)
+
 :point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#deep-learning--python-)
 
 :point_right: [Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
@@ -36,6 +38,10 @@ The articles have been categorised as follows:
 - **[Mathematics for Data Science](https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306)**
 
 - **[Probability & Statistics for Data Science (Series)](https://towardsdatascience.com/probability-statistics-for-data-science-series-83b94353ca48)**
+
+## Machine Learning
+
+- **[Naive Bayes in machine learning](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)**
 
 ## Deep Learning ( Python )
 
