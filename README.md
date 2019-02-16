@@ -39,6 +39,8 @@ The articles have been categorised as follows:
 
 - **[Probability & Statistics for Data Science (Series)](https://towardsdatascience.com/probability-statistics-for-data-science-series-83b94353ca48)**
 
+- **[Singular Value Decomposition (SVD) Tutorial: Applications, Examples, Exercises](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)**
+
 ## Machine Learning
 
 - **[Naive Bayes in machine learning](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)**
