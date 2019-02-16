@@ -87,7 +87,7 @@ The articles have been categorised as follows:
 
 - **[Detecting academics’ major from facial images](https://towardsdatascience.com/detecting-academics-major-from-facial-images-58cf33d6f284)**
 
-- **[]()**
+- **[Components of CNN](https://towardsdatascience.com/components-of-convolutional-neural-networks-6ff66296b456)**
 
 
 
