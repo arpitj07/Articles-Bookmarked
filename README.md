@@ -43,6 +43,10 @@ The articles have been categorised as follows:
 
 - **[Naive Bayes in machine learning](https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4)**
 
+- **[Regularization in Machine Learning](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)**
+
+- **[Overfitting vs. Underfitting: A Complete Example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)**
+
 ## Deep Learning ( Python )
 
 - **[How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)**.
