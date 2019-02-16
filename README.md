@@ -47,6 +47,10 @@ The articles have been categorised as follows:
 
 - **[Overfitting vs. Underfitting: A Complete Example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)**
 
+- **[Loss Functions and Optimization Algorithms. Demystified.](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c)**
+
+
+
 ## Deep Learning ( Python )
 
 - **[How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)**.
