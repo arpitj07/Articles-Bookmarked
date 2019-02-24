@@ -2,6 +2,8 @@
 
 The articles have been categorised as follows:
 
+:point_right: [Video Tutorials](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#video-tutorial)
+
 :point_right: [Mathematics for Machine/ Deep Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#mathematics-for-machine-deep-learning)
 
 :point_right: [Machine Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#machine-learning)
@@ -29,6 +31,17 @@ The articles have been categorised as follows:
 :point_right: [Natural Language Processing](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Natural-Language-Processing)
 
 :point_right: [Recurrent Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
+
+## Video Tutorial
+
+- **[Intro to Deep RL by lexfridman](youtu.be/zR11FLZ-O9M)**
+
+- **[DeepMindAI's Advanced DL and RL lectures:](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)**
+
+- **[OpenAI's Deep RL workshop:](https://youtu.be/fdY7dt3ijgY)**
+
+
+
 
 
 ## Mathematics for Machine/ Deep Learning
