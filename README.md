@@ -51,6 +51,7 @@ The articles have been categorised as follows:
 
 - **[Loss Functions and Optimization Algorithms. Demystified.](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c)**
 
+- [x] **[L1 Norm Regularization and Sparsity Explained for Dummies](https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a)**
 
 
 ## Deep Learning ( Python )
@@ -89,7 +90,7 @@ The articles have been categorised as follows:
 
 - **[Components of CNN](https://towardsdatascience.com/components-of-convolutional-neural-networks-6ff66296b456)**
 
-
+- **[]()**
 
 
 ## Self Driving Car
@@ -119,6 +120,8 @@ The articles have been categorised as follows:
 -  **[Building an image caption generator with Deep Learning in Tensorflow](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)**
 
 -  **[Tensorflow: Beginners to Advanced (Kaggle kernel)](https://www.kaggle.com/ashishpatel26/tensorflow-for-beginner-to-advance)**
+
+- [x] **[Demystify the TensorFlow APIs](https://medium.com/google-developer-experts/demystify-the-tensorflow-apis-57d2b0b8b6c0)**
 
 
 ## Chatbot
@@ -170,7 +173,11 @@ The articles have been categorised as follows:
 
 - **[An NLP View on Holiday Movies — Part II: Text Generation using LSTM’s in Keras](https://medium.com/@thomas_dehaene/an-nlp-view-on-holiday-movies-part-ii-text-generation-using-lstms-in-keras-36dc1ff8a6d2)**
 
-- **[]()**
+- **[Sentiment Analysis with Text Mining](https://towardsdatascience.com/sentiment-analysis-with-text-mining-13dd2b33de27)**
+
+- **[Natural Language Processing: Count Vectorization with scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)**
+
+- **[Perfume Recommendations using Natural Language Processing](https://towardsdatascience.com/perfume-recommendations-using-natural-language-processing-ad3e6736074c)**
 
 - [] **()[An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)**
 
@@ -181,4 +188,6 @@ The articles have been categorised as follows:
 
 - [x] **(24-02-2019)[Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/#)**
 
+- **[What is a Recurrent NNs and Gated Recurrent Unit (GRUS)](https://towardsdatascience.com/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69)**
 
+- **[]()**
