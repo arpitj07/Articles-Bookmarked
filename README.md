@@ -34,7 +34,7 @@ The articles have been categorised as follows:
 
 ## Video Tutorial
 
-- **[Intro to Deep RL by lexfridman](youtu.be/zR11FLZ-O9M)**
+- **[Intro to Deep RL by lexfridman](https://www.youtube.com/watch?v=zR11FLZ-O9M&feature=youtu.be)**
 
 - **[DeepMindAI's Advanced DL and RL lectures:](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)**
 
