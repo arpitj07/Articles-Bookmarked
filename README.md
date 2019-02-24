@@ -120,13 +120,14 @@ The articles have been categorised as follows:
 
 -  **[Tensorflow: Beginners to Advanced (Kaggle kernel)](https://www.kaggle.com/ashishpatel26/tensorflow-for-beginner-to-advance)**
 
+
 ## Chatbot
 
 - **[Getting started with Dialogflow and building my first bot (Newbie’s guide)](https://chatbotslife.com/getting-started-with-dialogflow-and-building-my-first-bot-newbies-guide-d025d4eed3b2)**.
 
 - **[Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)**
 
-- **[Building Your Own Chatbot Using DialogFlow](https://tutorials.botsfloor.com/building-your-own-chatbot-using-dialogflow-1b6ca92b3d3f)
+- **[Building Your Own Chatbot Using DialogFlow](https://tutorials.botsfloor.com/building-your-own-chatbot-using-dialogflow-1b6ca92b3d3f)**
 
 
 ## Generative Adversial Network 
@@ -171,12 +172,13 @@ The articles have been categorised as follows:
 
 - **[]()**
 
-
+- [] **()[An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)**
 
 
 ## Recurrent Neural Netwprk 
 
 - **[Build a Recurrent Neural Network from Scratch in Python](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+LP_DL_2019+2019_T1/about?utm_source=AVbannerblogtop&utm_medium=display&utm_campaign=LPDL2019)**
 
-[x] **(24-02-2019)[Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/#)**
+- [x] **(24-02-2019)[Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/#)**
+
 
