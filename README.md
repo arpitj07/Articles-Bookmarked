@@ -230,6 +230,8 @@ The articles have been categorised as follows:
 
 - **[A Flask API for serving scikit-learn models](https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa)**
 
+- **[Machine learning on mobile devices: 3 steps for deploying ML in your apps](https://heartbeat.fritz.ai/machine-learning-on-mobile-devices-3-steps-for-deploying-it-in-your-apps-48a0a24364a8)**
+
 
 ===================================++++++++++=====================================
 
