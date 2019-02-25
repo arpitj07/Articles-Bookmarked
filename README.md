@@ -45,7 +45,7 @@ The articles have been categorised as follows:
 - **[OpenAI's Deep RL workshop:](https://youtu.be/fdY7dt3ijgY)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Interview
@@ -53,7 +53,7 @@ The articles have been categorised as follows:
 - **[7 Steps to crack your first Data Science Internship (Tips, Tricks and Resources!)](https://www.analyticsvidhya.com/blog/2019/02/ultimate-guide-first-data-science-internship-tips-tricks-resources/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Mathematics for Machine/ Deep Learning
@@ -67,7 +67,7 @@ The articles have been categorised as follows:
 - **[Singular Value Decomposition (SVD) Tutorial: Applications, Examples, Exercises](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 
@@ -84,7 +84,7 @@ The articles have been categorised as follows:
 - [x] **[L1 Norm Regularization and Sparsity Explained for Dummies](https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Advanced Machine Learning
@@ -92,7 +92,7 @@ The articles have been categorised as follows:
 - **[A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/?utm_source=blog&utm_medium=internshiparticle)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Deep Learning ( Python )
@@ -108,7 +108,7 @@ The articles have been categorised as follows:
 - **[Top 10 Pretrained Models to get you Started with Deep Learning (Part 1 – Computer Vision)](https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/?utm_source=twitter.com&utm_medium=social)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Convolutional Neural Network
@@ -136,7 +136,7 @@ The articles have been categorised as follows:
 - **[]()**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Self Driving Car
@@ -150,7 +150,7 @@ The articles have been categorised as follows:
 - **[Building an Autonomous Vehicle Part 4.1: Sensor Fusion and Object Tracking using Kalman Filters](https://medium.com/@akhilsuri194/building-an-autonomous-vehicle-part-4-1-sensor-fusion-and-object-tracking-using-kalman-filters-66589e522965)**.
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Tensorflow/ Tensorflow.js
@@ -172,7 +172,7 @@ The articles have been categorised as follows:
 - [x] **[Demystify the TensorFlow APIs](https://medium.com/google-developer-experts/demystify-the-tensorflow-apis-57d2b0b8b6c0)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Chatbot
@@ -184,7 +184,7 @@ The articles have been categorised as follows:
 - **[Building Your Own Chatbot Using DialogFlow](https://tutorials.botsfloor.com/building-your-own-chatbot-using-dialogflow-1b6ca92b3d3f)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Generative Adversial Network 
@@ -194,7 +194,7 @@ The articles have been categorised as follows:
 - **[Understanding Generative Adversarial Networks (GANs)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Courses
@@ -202,7 +202,7 @@ The articles have been categorised as follows:
 - **[CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 
@@ -214,7 +214,7 @@ The articles have been categorised as follows:
 - **[Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Deploying Model
@@ -231,7 +231,7 @@ The articles have been categorised as follows:
 - **[A Flask API for serving scikit-learn models](https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Pytorch   
@@ -239,7 +239,7 @@ The articles have been categorised as follows:
 - **[Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!)](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Natural Language Processing 
@@ -262,9 +262,16 @@ The articles have been categorised as follows:
 
 - **[Beginners Tutorial for Regular Expressions in Python](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/)**
 
+- **[Ultimate Guide to Understand & Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)**
+
+- **[A Must-Read NLP Tutorial on Neural Machine Translation – The Technique Powering Google Translate](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
+
+- **[Introduction to StanfordNLP: An Incredible State-of-the-Art NLP Library for 53 Languages (with Python code)](https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
+
+- **[Introduction to Flair for NLP: A Simple yet Powerful State-of-the-Art NLP Library](https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
 
-===================================++++++++++=======================================
+===================================++++++++++=====================================
 
 
 ## Recurrent Neural Netwprk 
