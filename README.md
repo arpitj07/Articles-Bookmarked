@@ -179,6 +179,8 @@ The articles have been categorised as follows:
 - **[Get Started with PyTorch – Learn How to Build Quick & Accurate Neural Networks (with 4 Case Studies!)](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
 
+=======================================================================================================================================
+
 
 ## Natural Language Processing 
 
@@ -192,7 +194,12 @@ The articles have been categorised as follows:
 
 - **[Perfume Recommendations using Natural Language Processing](https://towardsdatascience.com/perfume-recommendations-using-natural-language-processing-ad3e6736074c)**
 
-- [] **()[An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)**
+- [] **(25-2-2019)[An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)**
+
+- [x] **(25-2-2019)[Classifying Tweets for Sentiment Analysis: Natural Language Processing in Python for Beginners](https://medium.com/vickdata/detecting-hate-speech-in-tweets-natural-language-processing-in-python-for-beginners-4e591952223)**
+
+
+========================================================================================================================================
 
 
 ## Recurrent Neural Netwprk 
