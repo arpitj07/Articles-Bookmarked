@@ -4,9 +4,13 @@ The articles have been categorised as follows:
 
 :point_right: [Video Tutorials](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#video-tutorial)
 
+:point_right: [Interview](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#interview)
+
 :point_right: [Mathematics for Machine/ Deep Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#mathematics-for-machine-deep-learning)
 
 :point_right: [Machine Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#machine-learning)
+
+:point_right: [Advanced Machine Learning](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#advanced-machine-learning)
 
 :point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#deep-learning--python-)
 
@@ -42,6 +46,9 @@ The articles have been categorised as follows:
 
 
 
+## Interview
+
+- **[7 Steps to crack your first Data Science Internship (Tips, Tricks and Resources!)](https://www.analyticsvidhya.com/blog/2019/02/ultimate-guide-first-data-science-internship-tips-tricks-resources/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
 
 ## Mathematics for Machine/ Deep Learning
@@ -65,6 +72,14 @@ The articles have been categorised as follows:
 - **[Loss Functions and Optimization Algorithms. Demystified.](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c)**
 
 - [x] **[L1 Norm Regularization and Sparsity Explained for Dummies](https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a)**
+
+
+
+
+## Advanced Machine Learning
+
+- **[A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/?utm_source=blog&utm_medium=internshiparticle)**
+
 
 
 ## Deep Learning ( Python )
