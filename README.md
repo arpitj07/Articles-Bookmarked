@@ -14,6 +14,8 @@ The articles have been categorised as follows:
 
 :point_right: [Deep Learning ( Python )](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#deep-learning--python-)
 
+:point_right: [Capsule Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#capsule-neural-network)
+
 :point_right: [Convolutional Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#convolutional-neural-network)
 
 :point_right: [ Self Driving Car](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#self-driving-car)
@@ -45,7 +47,7 @@ The articles have been categorised as follows:
 - **[OpenAI's Deep RL workshop:](https://youtu.be/fdY7dt3ijgY)**
 
 
-===================================++++++++++=====================================
+==================================++++++++++=====================================
 
 
 ## Interview
@@ -55,7 +57,7 @@ The articles have been categorised as follows:
 - **[Cracking the Machine Learning Interview](https://medium.com/@mathieuravaut/cracking-the-machine-learning-interview-baf377b46eca)**
 
 
-===================================++++++++++=====================================
+==================================++++++++++=====================================
 
 
 ## Mathematics for Machine/ Deep Learning
@@ -69,7 +71,7 @@ The articles have been categorised as follows:
 - **[Singular Value Decomposition (SVD) Tutorial: Applications, Examples, Exercises](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)**
 
 
-===================================++++++++++=====================================
+=================================++++++++++=====================================
 
 
 
@@ -110,7 +112,21 @@ The articles have been categorised as follows:
 - **[Top 10 Pretrained Models to get you Started with Deep Learning (Part 1 – Computer Vision)](https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/?utm_source=twitter.com&utm_medium=social)**
 
 
-===================================++++++++++=====================================
+==================================++++++++++=====================================
+
+
+## Capsule Neural Network
+
+- **[Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)**
+
+- **[Understanding Hinton’s Capsule Networks. Part 2. How Capsules Work.](https://pechyonkin.me/capsules-2/)**
+
+- **[Understanding Hinton’s Capsule Networks. Part 3. Dynamic Routing Between Capsules.](https://pechyonkin.me/capsules-3/)**
+
+- **[Understanding Hinton’s Capsule Networks. Part 4. CapsNet Architecture.](https://pechyonkin.me/capsules-4/)**
+
+
+====================================+++++++++++===================================
 
 
 ## Convolutional Neural Network
