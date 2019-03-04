@@ -38,6 +38,9 @@ The articles have been categorised as follows:
 
 :point_right: [Recurrent Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
 
+
+**[NO TIME TO READ AI RESEARCH? WE SUMMARIZED TOP 2018 PAPERS FOR YOU](https://www.topbots.com/most-important-ai-research-papers-2018/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Applying+NLP+to+your+business%3F+Here+are+14+research+breakthroughs+you+should+know&utm_campaign=Weekly+Newsletter+01+22+2019+Issue+125)**
+
 ## Video Tutorial
 
 - **[Intro to Deep RL by lexfridman](https://www.youtube.com/watch?v=zR11FLZ-O9M&feature=youtu.be)**
