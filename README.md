@@ -38,6 +38,8 @@ The articles have been categorised as follows:
 
 :point_right: [Recurrent Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
 
+:point_right: [Miscellaneous](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
+
 
 **[NO TIME TO READ AI RESEARCH? WE SUMMARIZED TOP 2018 PAPERS FOR YOU](https://www.topbots.com/most-important-ai-research-papers-2018/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Applying+NLP+to+your+business%3F+Here+are+14+research+breakthroughs+you+should+know&utm_campaign=Weekly+Newsletter+01+22+2019+Issue+125)**
 
@@ -58,6 +60,8 @@ The articles have been categorised as follows:
 - **[7 Steps to crack your first Data Science Internship (Tips, Tricks and Resources!)](https://www.analyticsvidhya.com/blog/2019/02/ultimate-guide-first-data-science-internship-tips-tricks-resources/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)**
 
 - **[Cracking the Machine Learning Interview](https://medium.com/@mathieuravaut/cracking-the-machine-learning-interview-baf377b46eca)**
+
+- **[What to Expect Interviewing for a Data Analyst Internship](https://towardsdatascience.com/what-to-expect-interviewing-for-a-data-analyst-internship-d6a964655bc6)**
 
 
 ==================================++++++++++=====================================
@@ -253,7 +257,7 @@ The articles have been categorised as follows:
 
 - **[Machine learning on mobile devices: 3 steps for deploying ML in your apps](https://heartbeat.fritz.ai/machine-learning-on-mobile-devices-3-steps-for-deploying-it-in-your-apps-48a0a24364a8)**
 
-
+- **[Deploy ML/DL Models to Production via Panini](https://towardsdatascience.com/deploy-ml-dl-models-to-production-via-panini-3e0a6e9ef14)**
 ===================================++++++++++=====================================
 
 
@@ -306,3 +310,10 @@ The articles have been categorised as follows:
 - **[What is a Recurrent NNs and Gated Recurrent Unit (GRUS)](https://towardsdatascience.com/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69)**
 
 - **[]()**
+
+================================+++++++++++=======================================
+
+
+## Miscellaneous 
+
+- **[Here’s How Uber’s Ludwig Helps Deploy Code-Free DL Models](https://www.analyticsindiamag.com/how-ubers-ludwig-helps-deploy-code-free-deep-learning-models/)**
