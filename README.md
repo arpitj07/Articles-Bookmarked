@@ -309,7 +309,7 @@ The articles have been categorised as follows:
 
 - **[What is a Recurrent NNs and Gated Recurrent Unit (GRUS)](https://towardsdatascience.com/what-is-a-recurrent-nns-and-gated-recurrent-unit-grus-ea71d2a05a69)**
 
-- **[]()**
+- **[Attention in Long Short-Term Memory Recurrent Neural Networks](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)**
 
 ================================+++++++++++=======================================
 
