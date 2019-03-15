@@ -118,6 +118,11 @@ The articles have been categorised as follows:
 
 - **[Top 10 Pretrained Models to get you Started with Deep Learning (Part 1 – Computer Vision)](https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/?utm_source=twitter.com&utm_medium=social)**
 
+- **[A Comprehensive guide to Fine-tuning Deep Learning Models in Keras (Part I)](https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html)**
+
+- **[A Comprehensive guide to Fine-tuning Deep Learning Models in Keras (Part II)](https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html)**
+
+- **[Transfer learning & The art of using Pre-trained Models in Deep Learning](https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/)**
 
 ==================================++++++++++=====================================
 
