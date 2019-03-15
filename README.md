@@ -30,15 +30,15 @@ The articles have been categorised as follows:
 
 :point_right: [Computer Vision](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Computer-Vision)
 
-:point_right: [Deploying Model](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Deploying-Model)
+:point_right: [Deploying Model](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#deploying-model)
 
-:point_right: [Pytorch](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Pytorch)
+:point_right: [Pytorch](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#pytorch)
 
-:point_right: [Natural Language Processing](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Natural-Language-Processing)
+:point_right: [Natural Language Processing](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#natural-language-processing)
 
-:point_right: [Recurrent Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
+:point_right: [Recurrent Neural Network](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#recurrent-neural-network)
 
-:point_right: [Miscellaneous](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#Recurrent-Neural-Network)
+:point_right: [Miscellaneous](https://github.com/arpitj07/Medium-Articles-Bookmarks/blob/master/README.md#miscellaneous)
 
 
 **[NO TIME TO READ AI RESEARCH? WE SUMMARIZED TOP 2018 PAPERS FOR YOU](https://www.topbots.com/most-important-ai-research-papers-2018/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Applying+NLP+to+your+business%3F+Here+are+14+research+breakthroughs+you+should+know&utm_campaign=Weekly+Newsletter+01+22+2019+Issue+125)**
