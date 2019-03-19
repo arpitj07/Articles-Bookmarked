@@ -263,6 +263,8 @@ The articles have been categorised as follows:
 - **[Machine learning on mobile devices: 3 steps for deploying ML in your apps](https://heartbeat.fritz.ai/machine-learning-on-mobile-devices-3-steps-for-deploying-it-in-your-apps-48a0a24364a8)**
 
 - **[Deploy ML/DL Models to Production via Panini](https://towardsdatascience.com/deploy-ml-dl-models-to-production-via-panini-3e0a6e9ef14)**
+
+- **[Deploying Deep Learning Models On Web And Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)**
 ===================================++++++++++=====================================
 
 
