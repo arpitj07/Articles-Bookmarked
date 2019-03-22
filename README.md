@@ -318,6 +318,11 @@ The articles have been categorised as follows:
 
 - **[Attention in Long Short-Term Memory Recurrent Neural Networks](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)**
 
+- **[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)**
+
+- **[Understanding LSTM and its diagrams](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)**
+
+
 ================================+++++++++++=======================================
 
 
