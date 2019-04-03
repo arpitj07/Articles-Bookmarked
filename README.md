@@ -63,6 +63,10 @@ The articles have been categorised as follows:
 
 - **[What to Expect Interviewing for a Data Analyst Internship](https://towardsdatascience.com/what-to-expect-interviewing-for-a-data-analyst-internship-d6a964655bc6)**
 
+- **[45 Questions to test a data scientist on basics of Deep Learning (along with solution)](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)**
+
+- **[The Most Comprehensive Data Science & Machine Learning Interview Guide You’ll Ever Need](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)**
+
 
 ==================================++++++++++=====================================
 
